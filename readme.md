@@ -59,7 +59,8 @@ The sooner, the better. This is to avoid higher amounts of refactoring later on.
  - Base Modules → (network, auth, cache, presentation).
 
  for more details :
- As you can see in digram every thing in this app controll by modules.
+ 
+ As you can see in diagram everything in this app controlled by modules.
  this is a Single activity project and uses `Navigation Component` to navigate between fragments.
  `base` module contains MVP files and `RxRule` for testing.
   every module can see the `base`.
