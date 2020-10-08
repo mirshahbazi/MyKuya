@@ -1,6 +1,10 @@
 # Machine Ventures Challenge
 
 
+# APK
+
+[download the apk here for test](https://github.com/mirshahbazi/MyKuya/blob/master/demo/MyKuya.apk)
+
 # Demo
 
 ![Hero Image](https://github.com/mirshahbazi/MyKuya/blob/master/demo/demo.gif)
@@ -59,7 +63,7 @@ The sooner, the better. This is to avoid higher amounts of refactoring later on.
  - Base Modules → (network, auth, cache, presentation).
 
  for more details :
- 
+
  As you can see in diagram everything in this app controlled by modules.
  this is a Single activity project and uses `Navigation Component` to navigate between fragments.
  `base` module contains MVP files and `RxRule` for testing.
