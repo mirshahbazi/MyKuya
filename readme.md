@@ -3,7 +3,7 @@
 
 # Demo
 
-![Hero Image](https://github.com/mirshahbazi/MyKuya/blob/master/demo/demo.mp4)
+![Hero Image](https://github.com/mirshahbazi/MyKuya/blob/master/demo/demo.gif)
 
 # Task
 
