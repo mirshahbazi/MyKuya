@@ -1,9 +1,9 @@
 # Machine Ventures Challenge
 
 
-#Demo
+# Demo
 
-
+![Hero Image](https://github.com/mirshahbazi/MyKuya/blob/master/demo/demo.mp4)
 
 # Task
 
