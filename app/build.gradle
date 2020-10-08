@@ -1,0 +1,17 @@
+apply plugin: 'com.android.application'
+apply from: "../module.gradle"
+
+android {
+    defaultConfig {
+        applicationId 'com.mykuyauserapp'
+        resValue "string", "maps_api_key", "AIzaSyCAPMbjTDDyb9QCaspbkvUPWxK8UtYXMTg"
+    }
+}
+
+dependencies {
+    implementation project(":service")
+    implementation project(":network")
+    implementation project(":data")
+    implementation project(":base")
+    implementation project(":map")
+}

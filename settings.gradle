@@ -1,0 +1,7 @@
+include ':map'
+include ':data'
+include ':network'
+include ':base'
+include ':service'
+include ':app'
+rootProject.name = "MyKuya"
